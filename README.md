@@ -9,6 +9,7 @@
     For this project, we are expected to look at these concepts:
     </h4>
 ## Concepts
+
 * Binary tree 
 * Data Structure and Algorithms - Tree
 * Tree Traversal
