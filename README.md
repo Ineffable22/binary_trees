@@ -45,6 +45,8 @@
 | `102-binary_tree_is_complete.c` | Write a function that checks if a binary tree is complete |
 | `103-binary_tree_rotate_left.c` | Write a function that performs a left-rotation on a binary tree |
 | `104-binary_tree_rotate_right.c` | Write a function that performs a right-rotation on a binary tree |
+| `110-binary_tree_is_bst.c` | Write a function that checks if a binary tree is a valid Binary Search Tree |
+
 
 <p align="center">
 Jeshua Cabanillas - 
