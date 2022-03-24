@@ -43,6 +43,7 @@
 | `100-binary_trees_ancestor.c` | Write a function that finds the lowest common ancestor of two nodes |
 | `101-binary_tree_levelorder.c` | Write a function that goes through a binary tree using level-order traversal |
 | `102-binary_tree_is_complete.c` | Write a function that checks if a binary tree is complete |
+| `103-binary_tree_rotate_left.c` | Write a function that performs a left-rotation on a binary tree |
 
 <p align="center">
 Jeshua Cabanillas - 
