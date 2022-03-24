@@ -5,4 +5,6 @@
 <h2 align="center">
     BINARY TREE
     </h2>
-
+<h4 align="center">
+    For this project, we are expected to look at these concepts:
+    </h4>
