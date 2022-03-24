@@ -49,6 +49,7 @@
 | `111-bst_insert.c, 0-binary_tree_node.c` | Write a function that inserts a value in a Binary Search Tree |
 | `112-array_to_bst.c` | Write a function that builds a Binary Search Tree from an array |
 | `113-bst_search.c` | Write a function that searches for a value in a Binary Search Tree |
+| `114-bst_remove.c` | Write a function that removes a node from a Binary Search Tree|
 
 <p align="center">
 Jeshua Cabanillas - 
