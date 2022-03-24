@@ -39,6 +39,8 @@
 | `15-binary_tree_is_full.c` | Write a function that checks if a binary tree is full |
 | `16-binary_tree_is_perfect.c` | Write a function that checks if a binary tree is perfect |
 | `17-binary_tree_sibling.c` | Write a function that finds the sibling of a node |
+| `18-binary_tree_uncle.c` | Write a function that finds the uncle of a node |
+
 <p align="center">
 Jeshua Cabanillas - 
 <a href="https://github.com/josh-94">
