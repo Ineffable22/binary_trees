@@ -14,6 +14,16 @@
 	* Tree Traversal
 	* Binary Search Tree
 	* Data structures: Binary Tree
+## Files
+
+| Filename | Description |
+| -------- | ----------- |
+| `0-binary_tree_node.c` | Write a function that creates a binary tree node |
+| `1-binary_tree_insert_left.c` | Write a function that inserts a node as the left-child of another node |
+
+
+
+
 ## Authors
 <p align="center">
 Jeshua Cabanillas - 
