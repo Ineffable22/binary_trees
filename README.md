@@ -9,11 +9,12 @@
     For this project, we are expected to look at these concepts:
     </h4>
 ## Concepts
-	* Binary tree 
-	* Data Structure and Algorithms - Tree
-	* Tree Traversal
-	* Binary Search Tree
-	* Data structures: Binary Tree
+* Binary tree 
+* Data Structure and Algorithms - Tree
+* Tree Traversal
+* Binary Search Tree
+* Data structures: Binary Tree
+
 ## Files
 
 | Filename | Description |
@@ -22,6 +23,8 @@
 | `1-binary_tree_insert_left.c` | Write a function that inserts a node as the left-child of another node |
 | `2-binary_tree_insert_right.c` | Write a function that inserts a node as the right-child of another node|
 | `3-binary_tree_delete.c` | Write a function that deletes an entire binary tree |
+| `4-binary_tree_is_leaf.c` | Write a function that checks if a node is a leaf |
+
 
 <p align="center">
 Jeshua Cabanillas - 
