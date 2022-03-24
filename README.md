@@ -29,6 +29,8 @@
 | `5-binary_tree_is_root.c` | Write a function that checks if a given node is a root |
 | `6-binary_tree_preorder.c` | Write a function that goes through a binary tree using pre-order traversal |
 | `7-binary_tree_inorder.c` | Write a function that goes through a binary tree using in-order traversal |
+| `8-binary_tree_postorder.c` | Write a function that goes through a binary tree using post-order traversal |
+| `9-binary_tree_height.c` | Write a function that measures the height of a binary tree |
 
 <p align="center">
 Jeshua Cabanillas - 
