@@ -14,3 +14,18 @@
 	* Tree Traversal
 	* Binary Search Tree
 	* Data structures: Binary Tree
+## Authors
+<p align="center">
+Jeshua Cabanillas - 
+<a href="https://github.com/josh-94">
+<img src="https://img.shields.io/badge/Jeshua-mainPage-blue">
+</a>
+</p>
+
+<p align="center">
+Miguel Grillo -
+<a href="https://github.com/Ineffable22">
+<img src="https://img.shields.io/badge/Miguel-mainPage-blue">
+</a>
+</p>
+
