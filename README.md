@@ -59,7 +59,6 @@ Jeshua Cabanillas -
 <img src="https://img.shields.io/badge/Jeshua-mainPage-blue">
 </a>
 </p>
-
 <p align="center">
 Miguel Grillo -
 <a href="https://github.com/Ineffable22">
