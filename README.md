@@ -8,7 +8,6 @@
 <h4 align="center">
     For this project, we are expected to look at these concepts:
     </h4>
-
 ## Concepts
 
 * Binary tree 
